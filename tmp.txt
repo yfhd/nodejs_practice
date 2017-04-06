@@ -1,0 +1,35 @@
+
+\
+
+npm install formidable
+npm WARN enoent ENOENT: no such file or directory, open 'package.json'
+Use "npm init --yes"  бн
+
+git push origin HEAD:refs/for/master
+
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+99:de:9e:0d:47:e1:5b:56:20:af:e1:42:0c:25:d4:3e.
+Please contact your system administrator.
+Add correct host key in /home/kardev/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /home/kardev/.ssh/known_hosts:2
+  remove with: ssh-keygen -f "/home/kardev/.ssh/known_hosts" -R [localhost]:29418
+
+
+~
+gerrit_testsite/etc/gerrit.config
+1Starting Gerrit Code Review: FAILED
+~
+
+put c:\gerrit-2.2.2.war gerrit-2.2.2.war
+
+cd0ab2eac8fa44e2ba9367f957777933
+
+http://www.downcc.com/soft/4043.html
+
+
+UMZAUJPD
+|>Q
+@
